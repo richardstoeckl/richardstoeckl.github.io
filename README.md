@@ -1,1 +1,1 @@
-# This redirects [richardstoeckl.github.io](https://www.richardstoeckl.github.io) to [richardstoeckl.gitlab.io](https://www.richardstoeckl.gitlab.io)
+# This redirects [richardstoeckl.github.io](https://richardstoeckl.github.io) to [richardstoeckl.gitlab.io](https://richardstoeckl.gitlab.io)
